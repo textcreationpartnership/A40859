@@ -1,0 +1,477 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Famous tragedie of the life and death of Mris. Rump shewing how she was brought to bed of a monster with her terrible pangs, bitter teeming, hard labour, and lamentable travell from Portsmouth to Westminster, and the great misery she hath endured by her ugly, deformed, ill-shapen basebegotten brat or imp of reformation, and the great cared and wonderful pains taken by Mris. London Midwife, Mris. Hasterigg, Nurse, Gossip Vaine, Gos. Scot &amp; her man Litesum, Gossip Walton, Gossip Martin, Gossip Nevit, Gossip Lemhal, Secluded Gossips, Apprentices : together with the exceeding great fright she took at a free Parliament, and the farall and of that grand tyrant O.C. the father of all murthers, rebellions, treasons and treacheries committed since the year 1648, as it was presented on a burning stage at Westminster the 29th of May, 1660.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40859</idno>
+            <idno type="STC">Wing F385A</idno>
+            <idno type="STC">ESTC R18088</idno>
+            <idno type="EEBO-CITATION">12868428</idno>
+            <idno type="OCLC">ocm 12868428</idno>
+            <idno type="VID">94770</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40859)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 94770)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 981:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Famous tragedie of the life and death of Mris. Rump shewing how she was brought to bed of a monster with her terrible pangs, bitter teeming, hard labour, and lamentable travell from Portsmouth to Westminster, and the great misery she hath endured by her ugly, deformed, ill-shapen basebegotten brat or imp of reformation, and the great cared and wonderful pains taken by Mris. London Midwife, Mris. Hasterigg, Nurse, Gossip Vaine, Gos. Scot &amp; her man Litesum, Gossip Walton, Gossip Martin, Gossip Nevit, Gossip Lemhal, Secluded Gossips, Apprentices : together with the exceeding great fright she took at a free Parliament, and the farall and of that grand tyrant O.C. the father of all murthers, rebellions, treasons and treacheries committed since the year 1648, as it was presented on a burning stage at Westminster the 29th of May, 1660.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Theodorus Microsmus,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cromwell, Oliver, 1599-1658.</term>
+               <term>Great Britain --  History --  Puritan Revolution, 1642-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:94770:1"/>
+            <pb facs="tcp:94770:1"/>
+            <p>The Famous TRAGEDIE Of the Life and Death of M<hi rend="sup">RIS.</hi> RUMP.</p>
+            <p>SHEWING How She was brought to Bed of a Monſter With her terrible Pangs, bitter Teeming, hard Labour, and lamentable Travell from <hi>Portſmouth</hi> to <hi>VVeſtminſter,</hi> and the great miſery ſhe hath endured by her ugly, deformed, ill-ſhapen, baſe-begotten <hi>Brat</hi> or <hi>Imp</hi> of Reformation, And the great care and wonderful pains taken by
+<list type="dramatis_personae">
+                  <item>Mris <hi>London</hi> Midwife</item>
+                  <item>Mris <hi>Haſterigg,</hi> Nurſe.</item>
+                  <item>Goſſip <hi>Vaine</hi>
+                  </item>
+                  <item>Goſ. <hi>Scot</hi> &amp; her man <hi>Liteſum</hi>
+                  </item>
+                  <item>Goſſip <hi>VValton.</hi>
+                  </item>
+                  <item>Goſſip <hi>Martin</hi>
+                  </item>
+                  <item>Goſſip <hi>Nevil.</hi>
+                  </item>
+                  <item>Goſſip <hi>Lenthal</hi>
+                  </item>
+                  <item>
+                     <hi>Secluded Goſſips.</hi>
+                  </item>
+                  <item>
+                     <hi>Apprentices.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Together with the Exceeding great fright ſhe took at a <hi>Free Parliament.</hi> And the Fatall end of that Grand Tyrant <hi>O. C.</hi> the Father of all Mur<g ref="char:EOLhyphen"/>thers, Rebellions, Treaſons and Treacheries committed ſince the year 1648, As it was preſented on a burning Stage at <hi>Weſtminſter</hi> the 29<hi>th</hi> of <hi>May,</hi> 1660.</p>
+            <q>
+               <l>There was ſuch horrid ſtinking ſmoak ne'r known</l>
+               <l>Before; But now the Devil has his own.</l>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Theodorus Microcoſmus,</hi> 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="prologue">
+            <pb n="2" facs="tcp:94770:2"/>
+            <head>PROLOGUE.</head>
+            <l>You Gallants that ſome idle hours have ſpent,</l>
+            <l>Her's paſtime that may give you all content.</l>
+            <l>It far excels <hi>Bell</hi>'s ſtory and the <hi>Dragon,</hi>
+            </l>
+            <l>Or Pha'tons riding in the Firy Wagon.</l>
+            <l>It's no Colcheſter Bull nor yet Mad' Ox,</l>
+            <l>Nor Tyrant <hi>Nol,</hi> mounted in a Coach-box.</l>
+            <l>Let merry Bells then Muſick backwards Ring,</l>
+            <l>Whilſt we the praiſe of <hi>Mris Rump</hi> do ſing.</l>
+            <l>Let her <hi>Phanatick</hi> friends great Bonfires make</l>
+            <l>Of pureſt ſtraw they from Piſt Beds can take;</l>
+            <l>With Eccoes loud like ſcreeking of a Cart,</l>
+            <l>And with ſhrill noiſe more ſweeter then a F—</l>
+            <l>For now ſhee's ſafe from danger brought a Bed,</l>
+            <l>Behold the <hi>Monſter</hi> of her Maiden-head.</l>
+            <l>The <hi>Nurſe</hi> is paid, By Oaths, falſe Proteſtation,</l>
+            <l>And by a new Coin called Sequeſtration.</l>
+            <l>'Tis ſtrange a <hi>Rump</hi> that's roaſted, boyl'd and broyl'd.</l>
+            <l>Should after death bring forth a monſtrous Child.</l>
+            <l>Got by ſome Pettyfogging Knight o'th poſt</l>
+            <l>VVho in her VVomb did leave his horrid Ghoſt,</l>
+            <l>To vex the honeſt people of this Nation</l>
+            <l>By her Baſe Brat, pretending Reformation,</l>
+            <l>VVho's bred and born, and then within a day</l>
+            <l>Conſum'd to ſmoak, and clearly fled away.</l>
+            <l>But yet Spectators now with Patience view,</l>
+            <l>'This Scene, 'tis cal'd <hi>a falſe W— never true.</hi>
+            </l>
+            <stage>Enter Goſſiip <hi>Vain,</hi> Scot and Nurſe <hi>Haſlerig.</hi>
+            </stage>
+            <sp>
+               <speaker>Goſſip <hi>Vane.</hi>
+               </speaker>
+               <p>HAa, ha, ha, How bravely have we ſteer'd the Coaſt now, Is there no more reprobates left, that we may bring them under an Act of Sequeſtration, This parting of Eſtates is a rare piece of employment, my thinks 'tis a gallant frollick.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>Goſ.</hi> Scot.</speaker>
+               <p>Content goſſip all's ours, though more would do well, what I have makes me jocund.</p>
+            </sp>
+            <sp>
+               <stage>Enter Lightſum.</stage>
+               <p>Jocund Mris, and well you might could you keep it. But whats the cauſe of this merry <hi>Vain</hi> you are in, when Mris <hi>Rump</hi> lies ſo ſick of a <hi>Portſmouth</hi> Baſtard, ſhee! hardly bring it ſafe into the World?</p>
+            </sp>
+            <sp>
+               <pb n="3" facs="tcp:94770:2"/>
+               <speaker>Mrs. <hi>Goſ. Scot.</hi>
+               </speaker>
+               <p>How! Sick, Sirrah are you ſure of that?</p>
+            </sp>
+            <sp>
+               <speaker>Lightſum.</speaker>
+               <p>As ſure as you you'l live to be hang'd for murrher, Trea<g ref="char:EOLhyphen"/>ſon, and Treachery.</p>
+            </sp>
+            <sp>
+               <speaker>Mrs. <hi>Scot.</hi>
+               </speaker>
+               <p>Gallop, Ride, Trot, Amble, Go, Run amaine, withall agi<g ref="char:EOLhyphen"/>lity, dexterity, alacrity and celerity, call Mrs. <hi>London</hi> the Midwife, and tell her that Mrs. <hi>Rump</hi> deſires her to come away preſently, for ſhee's in ſtrong labour and endures miſerable pangs and throws that comes upon her by playing the Whore at <hi>Portſmouth;</hi> pray Heavens ſhe hath not taken ſome fright at the exclamations of the people a<g ref="char:EOLhyphen"/>gainſt the Arſe, ſtump, Bum or Fag-end of a Parliament! Ile be ſworn it's enough to gally a Gentlewoman of her quallity and breeding to be deſpiſed by every idle boy that makes verſes, times and Songs of her, making no better of her then a common Camp or Ammunition W— turning up her Tayl to every lowſy ill-dependent, beſides <hi>Martin</hi> the Town Bull. Well ſhe is not the firſt that hath done amiſs, theſe are but ſlips occaſioned by the weakneſs of her Sex. I'le in and make her a ſpiritual Cawdle, I doubt ſhee'l have an ill bargaine on't. Mrs. <hi>Rump,</hi> how do you? I ſay Mrs. <hi>Rump</hi> will you have a little ſtrong Water of Mrs <hi>Scots</hi> diſtillation, or a Cawdle of Sequeſtration to comfort your putrified <hi>Bum?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mrs. <hi>Rump.</hi>
+               </speaker>
+               <p>Oh ſick, ſick, I muſt Spew Nurſe pray reach the Boul, <hi>Haw—aw—aw—</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Nurſe.</speaker>
+               <p>Well Mrs. fetch it up: up with it: Heaven bleſſe us! What's this looks ſo red Mrs?</p>
+            </sp>
+            <sp>
+               <speaker>Mrs. <hi>Rump.</hi>
+               </speaker>
+               <p>Oh 'tis blood, innocent blood, that hath lay in con<g ref="char:EOLhyphen"/>gealed clods in my Stomack a 11 years; Hark how loud it cryes for vengeance! I never felt it before I was overpowred by my <hi>Secluded Goſ<g ref="char:EOLhyphen"/>ſips,</hi> onely once at <hi>Portſmouth,</hi> when I was frighted by my Goſſip <hi>Fleet<g ref="char:EOLhyphen"/>woodt</hi> party and the <hi>London</hi> Apprentices, Oh the death of my King, his blood and the fear of his Sons coming, cauſes my pain to encreaſe, I underſtand too late he ſuffered by my Tyranny, an innocent and untime<g ref="char:EOLhyphen"/>ly end.</p>
+            </sp>
+            <sp>
+               <speaker>Nurſe.</speaker>
+               <p>'Tis well 'tis up, Mrs. caſt again.</p>
+            </sp>
+            <sp>
+               <speaker>Mrs. <hi>Rump.</hi>
+               </speaker>
+               <p>
+                  <hi>Aw—aw—aw—</hi>Oh my heart is almoſt burſt!</p>
+            </sp>
+            <sp>
+               <speaker>Nurſe,</speaker>
+               <p>Lord, Mrs. what is that looks ſo yellow, Is it Choller?</p>
+            </sp>
+            <sp>
+               <speaker>Mrs. <hi>Rump.</hi>
+               </speaker>
+               <p>No Nurſe 'tis Gold, accurſed Gold, for love of which I ſold my God, murdered my King, gave away my Soul, and pull'd down the gates, Poſts, Perculliſſes, nay through thy inſtigation had like to have fired the habitation of Mrs. <hi>London</hi> my Midwife, and that for a ſmall ſum of one hundred thouſand pounds <hi>Aw—, aw—, aw</hi>—.</p>
+            </sp>
+            <sp>
+               <pb n="4" facs="tcp:94770:3"/>
+               <speaker>Goſſip <hi>Scot.</hi>
+               </speaker>
+               <p>Quickly Nurſe, bring the Baſon Nurſe.</p>
+            </sp>
+            <sp>
+               <speaker>Nurſe,</speaker>
+               <p>I come I come, Whats this looks like Parchment Rowld up in form like a Bill of Indictment?</p>
+            </sp>
+            <sp>
+               <speaker>Rump.</speaker>
+               <p>This is that black Bill drawn up by that ſtrumpet my Mother. <hi>Bradſhaw</hi> through the inſtigation of the Devil, and my Father <hi>Crom<g ref="char:EOLhyphen"/>wel,</hi> againſt my Royal Soveraigne, for which I endure theſe bitter pangs.</p>
+            </sp>
+            <sp>
+               <speaker>Goſſip. <hi>Scot.</hi>
+               </speaker>
+               <p>Is Mris <hi>London</hi> come? If not, there's no help, we're all undone: what courſe ſhall we take to preſerve our dearly beloved ſiſter <hi>Rump?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Goſ. <hi>VValton.</hi>
+               </speaker>
+               <p>Call for more help. Hold faſt behind goſſiip <hi>Nevil,</hi> this throw I fear will be her laſt.</p>
+            </sp>
+            <sp>
+               <speaker>Goſ. <hi>Nevil.</hi>
+               </speaker>
+               <p>No Ile warrant you, I ſhall play the <hi>Oceano</hi> Dr. ſo well that my <hi>Eutopian</hi> Phyſick will bring the Brat to perfection, Tis nothing comes now but a Harp &amp; Croſs, it ſmells ſo ſtrong of a Commonwealth it can never miſcarry.</p>
+            </sp>
+            <sp>
+               <speaker>Goſ. Martin.</speaker>
+               <p>In good ſooth I believe ſo too. Could ſhe ſweat up<g ref="char:EOLhyphen"/>on it, as I uſe to do at <hi>Baldwins</hi> Gardens, ſhee'd do well enough.</p>
+            </sp>
+            <sp>
+               <speaker>G. Scot.</speaker>
+               <p>Or as I have done at <hi>VVickam</hi> with my Bone-lace-maker, or at <hi>Lambeth</hi> with my Begger-wench, 'twould thrive in ſpight in of Fa<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e.</p>
+            </sp>
+            <sp>
+               <speaker>Mris <hi>Rump.</hi>
+               </speaker>
+               <p>I'me almoſt ſpent Oh, oh, <hi>aw—aw—</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Nurſe.</speaker>
+               <p>Whats this looks like Paper?</p>
+            </sp>
+            <sp>
+               <speaker>Mris <hi>Rump.</hi>
+               </speaker>
+               <p>Theſe are Votes and Ordinances of my own creating, contrary to Law or Reaſon, made only to keep out my King contrary to my Oath of Allegiance, and for ſequeſtring my friends to ſtuff my own Coffers. Pray hold my back hard Nurſe, or my heart will ſhiver in pieces. <hi>Aw—aw—aw—</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Nurſe.</speaker>
+               <p>Whats this that comes ſo ſtrongly up? Foh, foh, foh, now it ſtinks all the Kingdom over, but I cannot help it?</p>
+            </sp>
+            <sp>
+               <speaker>Mris <hi>Rump.</hi>
+               </speaker>
+               <p>Oh Nurſe its too late to help now. This is that dam<g ref="char:EOLhyphen"/>nable Declaration you causd to be lap'd up in an Oath of Abjuration, againſt my Soveraign Lord the King, aſperſing him and his whole Line with reproachful lys, calling him Tyrant, who was the Moſt Juſt and Religious King in the World; Pray Nurſe fling ſome hot Embers on it, and make haſt for Mris <hi>Murther,</hi> Mris <hi>Rapine,</hi> and my good neigh<g ref="char:EOLhyphen"/>bour Mris <hi>Perjury.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Nurſe.</speaker>
+               <p>Ime gone, here's the Midwife, Mris <hi>Londons</hi> come for<g ref="char:EOLhyphen"/>ſooth.</p>
+            </sp>
+            <sp>
+               <speaker>Mris <hi>London.</hi>
+               </speaker>
+               <p>Mris <hi>Rump</hi> how do you I pray?</p>
+            </sp>
+            <sp>
+               <pb n="5" facs="tcp:94770:3"/>
+               <speaker>Mrs. <hi>Rump.</hi>
+               </speaker>
+               <p>Oh Mrs. <hi>London,</hi> help me now or I die, never did <hi>Rump</hi> endure ſo much ſorrow, with bitter pangs, ſobs and ſighs. Oh, oh I am ready to die, you need not have ſtaid ſo long; there was no Gares, Portculliſes or poſts to hinder you, Oh I'me ready to depart!</p>
+            </sp>
+            <sp>
+               <speaker>Mrs. <hi>London.</hi>
+               </speaker>
+               <p>Go, and the Devil go with you, I came but to laugh at thy miſery, thou haſt had too much of my help already, which hath em<g ref="char:EOLhyphen"/>boldned thee to play the <hi>Strumpet.</hi> Ile not aſſiſt thee or thy brat any more <hi>Guild-hall</hi> is too empty of Bodkins, Thimbles, Rings, and Boles to maintain thy whoredom, <stage>Exit.</stage>
+               </p>
+            </sp>
+            <p>As ſoon as ſhe had made an end of ſpeaking, in came ruſhing Mrs. <hi>Nevill,</hi> Mrs. <hi>Scot,</hi> Mrs. <hi>Walton,</hi> Mrs. <hi>Martin.</hi> Mrs. <hi>Vane.</hi> &amp;c. who preſently fell about her buſineſs: one held her hands, another her back, and a third her members, ſhe being in this grievous agony (having no hopes to ſcape with life, deſired Mrs. <hi>Haſlerig</hi> to indite a bill to have her pray'd for) and that it be ſpeedily ſent by the Lord Mayor to the ſeveral Congregation within every their reſpective Pariſhes for her ſafe Deliverance; which moſt accurately ſhe penned in form of a <hi>Declara<g ref="char:EOLhyphen"/>tion,</hi> in theſe words following.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="declaration">
+                        <head>The Declarations of <hi>Mrs.</hi> Rump, lying very weak, and in moſt grievous Pangs of Child-bearing; and cannot be Delivered.</head>
+                        <p>Whatſoever dangers are threatned or feared, either by the great perplexity I am at this preſent in (or by reaſon of my manifold ſins that now in my weakneſs lie heavy upon my Conſcience,) yet I have aſſurance, that if I confeſs and forſake them <hi>(as I have no ſuch inten<g ref="char:EOLhyphen"/>tion)</hi> I ſhall find mercy.</p>
+                        <p>Therefore I confeſs and acknowledge (but not from the bottom of my heart) that for the ſpace of theſe 12 years I have been a moſt cruel murderer, not onely of Bodies, but of Souls; that I have perjur'd my ſelf, Firſt by my Oath of All giance, and ſecondly by my Solemn <hi>Covenant,</hi> wherein (as in <hi>Hoſ.</hi> 1.9,) I have ſpoken words, ſwearing falſly in making a Covenant; ſpringeth up againſt me) like Hemlock in the furrows of the field: That I have moſt Trayterouſly betrayed, and murdered my lawful King, the Anointed of the Lord, that I have made Gods Houſe and the Kings houſe a <hi>Den of Thieves:</hi> that I have loved wickedneſs, and practiſed it; that no fear hath dehorted me from doing any thing <hi>(but Juſtice)</hi> that I have robbed both God &amp; the King, and have not feared the one nor honored the other: that I have uſed all manner of jugglings, Couſenage, contradictions and Equivoca<g ref="char:EOLhyphen"/>tions, that my Religion hath been Railing, Blaſphemy; Treaſon and Tautalogies,</p>
+                        <pb n="6" facs="tcp:94770:4"/>
+                        <p> And that I have not onely covered but by the inſtigation of the Devil, and againſt the Lawes of our Soveraign Lord King <hi>Charles,</hi> forceably taken, ſtole and carried away the goods and Chattells of many thouſands of his Majeſties Loyal and obedient Subjects; that I have made this <hi>Canaan</hi> of all happineſs, a <hi>Golgotha,</hi> and Field of Blood; and have yoaked my fellow Subjects to the Pride, Tyranny and Op<g ref="char:EOLhyphen"/>preſſion of my own Luſt and Ambition; inſtead of Reforming I have deformed, inſtead of repairing I have pulled down; Which hath oc<g ref="char:EOLhyphen"/>caſioned all theſe miſeries to fall upon me; My greateſt grief of all be<g ref="char:EOLhyphen"/>ing, that I know I have committed all this, and much more, but can<g ref="char:EOLhyphen"/>not Repent for the ſame; therefore the ſeveral Independents, Ana<g ref="char:EOLhyphen"/>baptiſts, Seekers, Ranters Quakers, <hi>&amp;c.</hi> within the Cities of <hi>London</hi> and <hi>Weſtminſter,</hi> and the late Lines of Communications, are deſired upon next <hi>Good Fryday</hi> if I ſhall not be Delivered before, to keep a day of feined Humiliation, and Prating; that the heavy judgements that ſo inevitably threaten me, may be diverted; That ſo I may come in again to Rule, Reign, and Tyrannize over you, Rump everlaſting, Im<g ref="char:EOLhyphen"/>poſitions, Aſſeſſments and Taxations without end.</p>
+                        <closer>
+                           <signed>Your Friend and putrified <hi>Bum</hi> of iniquity, Mrs. <hi>Rump.</hi>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>While this was writing Mrs. <hi>Rump</hi> grew worſe and worſe, and the good Wives made account ſhe had been drawing on: therefore Mrs. <hi>London</hi> ſtept to her and ſpake as followeth <hi>viz.</hi>
+            </p>
+            <sp>
+               <speaker>Mrs. <hi>London.</hi>
+               </speaker>
+               <p>Dear Daughter I perceive by thy pulſes beating, and ſo much blood ſpringing out of thy Conſcience into thy Face, that thou art almoſt already as it were dead, and its a queſtion whether the Child thou now art in labour with, may come to perfection or no? or live to receive its Chriſtendom, and though I have upheld thee in all thy Actions, and ſafely brought thee from <hi>Portſmouth</hi> to <hi>Weſtminſter;</hi> and ſuccoured the <hi>Fox</hi> 12. years with Plate, Bodkins, Rings and Bowls, yet thy ſins and abominations have been ſo great I cannot deliver thee ſo as to reſtore thee to thy former power, I adviſe thee therefore re<g ref="char:EOLhyphen"/>ſtore what is taken by thy cruel Paws from thy God, thy King, thy Neighbour, and repent of thy perjury.</p>
+               <p>Whilſt thus ſhe ſpeak the Room was fill'd with ſmoak, over ſpread clear with darkneſs, the Candles went out, and terrible thundrings were heard, intermixt with wawling of Catts, howling of Doggs, and barking of Wolves, which ſtrnck a great terrour in all her Goſſips; In the mean time Mrs. <hi>Rump</hi> brought forth an ugly deformed Monſter without a head, goggle-ey'd, bloody hands, growing out on both ſides of its de<g ref="char:EOLhyphen"/>vouring
+<pb n="7" facs="tcp:94770:4"/>panch, under the belly hung a great Bag, and the Feet were like the feet of a Bear; thoſe that will ſee this Brat may repair to the Plantation of <hi>Fumigoſus</hi> calld <hi>Slavonia,</hi> whither ſhe is gone to be Nurs'd by Mris <hi>Sequeſtration;</hi> who no ſooner is gone but in comes the <hi>Secluded Goſſips.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Enter Secluded Goſſips.</speaker>
+               <p>What's here to do? Is no room left for us? if not, patience upon force muſt prove a medicine to purge this place from the uſurping power of a lawleſs <hi>Rump.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Goſſip Lenthal.</speaker>
+               <p>You are all welcome, pray ſit down for I ſhould be unwilling to loſe the place of Speaking, by which my Coffers have been ſtuft with draining the purſes and heart-blood of other mens Eſtates.</p>
+            </sp>
+            <sp>
+               <speaker>Secl. Goſſips.</speaker>
+               <p>Nurſe <hi>Lenthal,</hi> Read over ſome of the laſt Papers or manuſcripts of Mrs <hi>Rump.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Goſſip Lenth.</speaker>
+               <p>Here is an Act againſt the whole Line of King <hi>James</hi> by which its neither murther nor Treaſon, to Kill Kings or murther the moſt Loyal Subjects. And here's another rare Vote, which I look upon to be very good in Law, for the increaſing my Coffers (hoping to be a ſharer therein) that is, <hi>For ſequeſtring Sir</hi> George Booth, <hi>and all thoſe of the Royal party that aſſiſted him.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Secl. Goſſiips.</speaker>
+               <p>Stay there a while, We diſown your Treaſons. Thoſe Acts we vote Null and Void. Wee'l clear the way, let the next go on where we have left, right will take place, the ſtinking <hi>Rump</hi> be in a rotten condition, and though it be ſuppoſed we fatte'd them,
+<q>
+                     <l>VVee'l make them Lean, and all for ſorrow ſing</l>
+                     <l>Themſelves to Hell, when <hi>England</hi> hath a King.</l>
+                  </q>
+               </p>
+            </sp>
+            <sp>
+               <stage>Enter Free Parl.</stage>
+               <p>What hideous <hi>Monſter</hi>'s this, that appears thus dy'd in Blood, without ſhape, head or Body?</p>
+            </sp>
+            <sp>
+               <speaker>Mris <hi>Rump.</hi>
+               </speaker>
+               <p>'Tis I that wait for Pardon. Is no Indempnity for me? though I have dlpt my hands in the Scarlet dy of Majeſty, I hope your mercy will exceed my cruelty.</p>
+            </sp>
+            <sp>
+               <speaker>Parl.</speaker>
+               <p>I, as far as Law and Juſtice will extends; but I ſee little hope, therefore as thou haſt ſat long in pomp, ſo thou ſhalt lye in State upon a hurdle, and be drawn to thy Country houſe, where as much pains ſhall be taken for thee as <hi>Judas</hi> took for himſelf.</p>
+               <stage>She trembles.</stage>
+            </sp>
+            <sp>
+               <speaker>Rump.</speaker>
+               <p>Since ſo it is Ile to the City and dy a martyr.</p>
+            </sp>
+            <sp>
+               <stage>Enter Prentices.</stage>
+               <p>Lay hands on her.</p>
+               <stage>They ſeiz on her.</stage>
+            </sp>
+            <sp>
+               <speaker>All.</speaker>
+               <l>Wee'l end this ſtink with ſpeed.</l>
+               <pb n="8" facs="tcp:94770:5"/>
+               <l> They fling her in the fire and write this <hi>Epitaph.</hi>
+               </l>
+               <l>
+                  <hi>Here lyes ſhe who was (in ſumme)</hi>
+               </l>
+               <l>
+                  <hi>No Head or Body but all Bum,</hi>
+               </l>
+               <l>
+                  <hi>VVho did three Nations to confuſio<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> bring.</hi>
+               </l>
+               <l>
+                  <hi>She ſold her God, and murthered her King.</hi>
+               </l>
+            </sp>
+            <stage>Enter Prentices with ſtaves, and Clubs carrying the Effigies of that old Tyrant <hi>O. Cromwell.</hi>
+            </stage>
+            <sp>
+               <speaker>A Prentice.</speaker>
+               <l>Lo here's the form of that Grand Traytor <hi>Noll</hi>
+               </l>
+               <l>Who gave a hundred pound a year to <hi>Pol</hi>
+               </l>
+               <l>To vindicate his bloody Scarlet pawes,</l>
+               <l>Under the Notion of a <hi>Good Old Cauſe.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>All the reſt.</speaker>
+               <l>We knew it well, and did in ſorrow ſing</l>
+               <l>Whilſt <hi>Judas</hi> like he murderd <hi>Charles</hi> our King.</l>
+               <l>But now wee'l make the world our deeds admire,</l>
+               <l>
+                  <hi>VVith that they flung the Puppet in the fire,</hi>
+               </l>
+               <l>Which made the very duſt and aſhes fly,</l>
+               <l>From th' earth as ſwift as lightning from the Sky.</l>
+               <l>And ſuch a noyſome Hog and darkneſs fell,</l>
+               <l>As if it had deſcended into Hell.</l>
+               <l>Where (with the Rumpiſh Brat) a curſe it lyes,</l>
+               <l>As though the Devil had torn out the eyes</l>
+               <l>The which was all the pay due for its hire</l>
+               <l>Whoſe ſcortching Noſe three Kingdoms ſet on ſire.</l>
+            </sp>
+         </div>
+         <div type="epilogue">
+            <head>EPILOGUE.</head>
+            <lg>
+               <l>Rejoyce Great Brittain now, for Kings there's none</l>
+               <l>Shall Govern thee, but <hi>Charles,</hi> and he alone</l>
+               <l>Will Peace and Plenty to this Nation bring,</l>
+               <l>VVho is the Son of <hi>Charles</hi> thy marttyr'd KING.</l>
+               <l>The <hi>Rump</hi> of <hi>Traytors</hi> (that did ſore ſo high</l>
+               <l>To ſpill the blood of ſacred Majeſty.</l>
+               <l>Are now defunct, Poor VVhore ſhee's brought a Bed</l>
+               <l>Of a long Tayl, but neither brains or Head.</l>
+            </lg>
+            <p>FAG, RUMP, BUM, STUMP.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
